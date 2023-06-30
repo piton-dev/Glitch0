@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Glitch0
+- 👋 Hi, I’m @X1xo
 - 👀 I’m interested in developing web projects.
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on a web project.
